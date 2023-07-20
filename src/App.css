@@ -1,0 +1,13 @@
+.container{
+justify-content: center;
+align-items: center;
+background: '#dfe6e9',
+
+
+}
+.box{
+  width: 500;
+  height:500;
+  padding: 10;
+  margin: 10;
+}
